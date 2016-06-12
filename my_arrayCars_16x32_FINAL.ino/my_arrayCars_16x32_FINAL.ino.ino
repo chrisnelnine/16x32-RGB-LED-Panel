@@ -1,5 +1,5 @@
 // This sketch shows an animation of cars passing by
-// Written by chrisnel@github
+// Written by chrisnelnine@github
 // for a 16x32 LED Panel driven by an Aduino Mega 2560
 // Features a number decal on each car and a static background scene
 // Cars consists of parts drawn from shapes which move in unison with the car 
