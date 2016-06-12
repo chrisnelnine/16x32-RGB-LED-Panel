@@ -5,7 +5,7 @@
 // Cars consists of parts drawn from shapes which move in unison with the car 
 
 // Adapted from testshapes demo for Adafruit RGBmatrixPanel library.
-// whihc Demonstrates the drawing abilities of the RGBmatrixPanel library.
+// which Demonstrates the drawing abilities of the RGBmatrixPanel library.
 // For 16x32 RGB LED matrix:
 // http://www.adafruit.com/products/420
 // written by Limor Fried/Ladyada & Phil Burgess/PaintYourDragon
